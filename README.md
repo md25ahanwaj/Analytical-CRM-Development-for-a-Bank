@@ -85,8 +85,8 @@ This Bank Churn Analysis project provides a comprehensive approach to understand
 
 For any questions or further information, please contact:
 
-- **Name:** Divyanshu Jaimini
-- **Email:** jaimini.divyanshu@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/divyanshu-jaimini-016a221a2/
+- **Name:** Muhammad Sahanwaj
+- **Email:** muhammadsahanwaj03@gmail,com
+- **LinkedIn:** https://www.linkedin.com/in/m-sahanwaj/
 
-Thank you for your interest in the Bank Churn Analysis project!
+Thank you for being so interested in the Bank Churn Analysis project!
