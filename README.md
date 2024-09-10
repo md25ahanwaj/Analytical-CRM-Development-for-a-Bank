@@ -40,7 +40,7 @@ The raw data from various Excel files needed cleaning to ensure reliability. The
 The cleaned data was imported into MySQL for efficient management and analysis. The following steps were taken:
 
 - **Table Creation:** Created tables in MySQL to store the cleaned data.
-- **Data Import:** Imported the cleaned data into the MySQL tables.
+- **Data Import:** The cleaned data was imported into the MySQL tables.
 - **Indexing:** Indexed key columns to optimize query performance.
 
 ## Data Analysis
@@ -59,7 +59,18 @@ An interactive dashboard was created using Power BI to visualize the insights ob
 - **Demographic Analysis:** Visualizations showing customer demographics.
 - **Account Analysis:** Charts and graphs illustrating account information and trends.
 - **Credit Score Analysis:** Visual representation of credit score patterns.
-- **Churn Analysis:** Insights into factors contributing to customer churn and potential strategies to mitigate it.
+- **Churn Analysis:** Insights into factors contributing to customer churn and potential mitigation strategies.
+-![image](https://github.com/user-attachments/assets/7837a06f-d46c-430d-9b81-6fc44057b38c)
+
+![image](https://github.com/user-attachments/assets/9fbfa391-d7fe-4558-8ab5-64cd2615c3c2)
+
+![image](https://github.com/user-attachments/assets/094dccf8-50fc-4b9c-b03e-10b6d14a0cc2)
+
+![image](https://github.com/user-attachments/assets/658aa4e9-629d-4c05-825e-d25baae7f125)
+
+
+
+
 
 ## Insights and Recommendations
 
